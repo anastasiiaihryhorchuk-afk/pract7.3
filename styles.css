@@ -1,0 +1,23 @@
+.cat-mem{
+    width: 250px; 
+    height: 250px;
+    clip-path: polygon(51% 27%, 98% 60%, 72% 100%, 14% 79%);
+}
+
+.kitty{
+    width: 250px; 
+    height: 250px;
+    clip-path: polygon(2% 4%, 100% 6%, 51% 98%, 21% 98%);
+}
+
+.ogo{
+    width: 250px; 
+    height: 250px;
+    clip-path: polygon(0 23%, 33% 24%, 35% 0%, 65% 0%, 65% 25%, 41% 34%, 40% 34%, 65% 50%, 65% 100%, 0 100%, 0 71%, 0 48%);
+}
+
+.hah{
+    width: 250px; 
+    height: 250px;
+    clip-path: polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+}
